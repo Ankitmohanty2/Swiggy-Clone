@@ -2,7 +2,7 @@
   "name": "swiggy-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ankitmohanty2.github.io/SwiggyClone",
+  "homepage": "https://Ankitmohanty2.github.io/Swiggy-Clone",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@reduxjs/toolkit": "^1.9.7",
