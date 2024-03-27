@@ -13,3 +13,6 @@ export const AUTOCOMPLETE_URL = "https://corsproxy.io/?https://www.swiggy.com/da
 export const ADDRESS_RECOMMEND_URL = 'https://corsproxy.io/?https://www.swiggy.com/dapi/misc/address-recommend?place_id=';
 
 export const UPDATE_RESTAURANTS_LIST_URL = 'https://corsproxy.io/?https://www.swiggy.com/dapi/restaurants/list/update';
+
+
+// Rightly Arranged
