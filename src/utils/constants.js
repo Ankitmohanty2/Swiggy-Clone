@@ -12,7 +12,7 @@ export const AUTOCOMPLETE_URL = "https://corsproxy.io/?https://www.swiggy.com/da
 
 export const ADDRESS_RECOMMEND_URL = 'https://corsproxy.io/?https://www.swiggy.com/dapi/misc/address-recommend?place_id=';
 
-export const UPDATE_RESTAURANTS_LIST_URL = 'https://corsproxy.io/?https://www.swiggy.com/dapi/restaurants/list/update';
+export const UPDATE_RESTAURANTS_LIST_URL = 'https://www.swiggy.com/dapi/restaurants/list/v5?lat=23.369726076519406&lng=85.33414583862306&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING';
 
 
 // Rightly Arranged
